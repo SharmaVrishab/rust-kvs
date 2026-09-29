@@ -1,0 +1,19 @@
+/target/
+/fuzz/target/
+/fuzz/corpus/
+/fuzz/artifacts/
+Cargo.lock.bak
+
+# Your notes and flashcards stay local
+/notes/
+
+# Study and project documentation stays local
+/README.md
+/architecture.md
+/roadmap.md
+/weeks/
+
+.DS_Store
+.idea/
+.vscode/
+*.log.compact
