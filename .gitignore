@@ -8,7 +8,6 @@ Cargo.lock.bak
 /notes/
 
 # Study and project documentation stays local
-/README.md
 /architecture.md
 /roadmap.md
 /weeks/
